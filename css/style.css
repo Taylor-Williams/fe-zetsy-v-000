@@ -6,8 +6,8 @@
 	src: url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 }
 /*////////// Global Styles //////////*/
-header{
-	display:none;
+head{
+	display: none;
 }
 
 body {
