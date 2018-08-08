@@ -61,8 +61,11 @@ a {
 	border: 5px solid rgb(152,173,166);
 }
 
-.small{
+footer {
 	text-align: right;
+}
+
+.small{
 	font-size: 0.8em;
 }
 /* Write all remaining styles here */
