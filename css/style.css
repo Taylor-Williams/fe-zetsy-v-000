@@ -29,6 +29,12 @@ header a {
 	text-decoration: none;
 }
 
+header {
+	margin: 0;
+	padding: 0;
+	border-bottom: 1px solid black;
+}
+
 h2 {
 	font-size: 2em;
 	color: rgb(111,127,122);
