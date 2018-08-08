@@ -30,9 +30,9 @@ header a {
 }
 
 header {
-	height: 100px;
-	margin: 0;
-	padding: 0;
+	height: 90px;
+	margin: 0, 20px;
+	padding: 10px, 20px, 0, 0;
 	border-bottom: 1px solid black;
 }
 
