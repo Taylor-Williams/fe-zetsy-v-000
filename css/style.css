@@ -52,4 +52,8 @@ a {
 	padding: 0 45px 20px;
 }
 
+#featured img {
+	border: 10px, solid, #aaa;
+}
+
 /* Write all remaining styles here */
