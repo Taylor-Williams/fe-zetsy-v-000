@@ -6,6 +6,10 @@
 	src: url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 }
 /*////////// Global Styles //////////*/
+h1 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 5em;
+}
 
 body {
 	background: #F3EBE9;
