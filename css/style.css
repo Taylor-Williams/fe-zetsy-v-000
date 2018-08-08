@@ -30,6 +30,7 @@ header a {
 }
 
 header {
+	height: 100px;
 	margin: 0;
 	padding: 0;
 	border-bottom: 1px solid black;
