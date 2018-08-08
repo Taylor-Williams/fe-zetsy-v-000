@@ -24,6 +24,12 @@ h1 {
 	font-weight: bold;
 }
 
+p{
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
 header a {
 	color: rgb(152,173,166);
 	text-decoration: none;
