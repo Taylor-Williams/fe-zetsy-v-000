@@ -11,6 +11,10 @@ h1 {
 	font-size: 5em;
 }
 
+header a {
+	color: rgb(152,173,166);
+}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
